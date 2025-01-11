@@ -36,3 +36,12 @@ public class ClassAndObjectExample {
         // Access the object's method
         person2.displayInfo();
     }
+
+
+OUTPUT:
+Name: keerthana
+Age: 17
+Name: deepthi
+Age: 17
+
+
